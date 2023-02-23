@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Chart JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GowthamTG/TeamTalk](https://github.com/GowthamTG/TeamTalk)
+- 👨‍💻 All of my projects are available at [HERE](https://github.com/GowthamTG/)
 
 - 💬 Ask me about **React, Angular, NodeJS, Flutter, Tensorflow**
 
